@@ -19,7 +19,7 @@ I am a Backend/DevOps Engineer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,c,cpp,git,docker,kubernetes,docker,go,grafana,elasticsearch,graphql,ansible,js,jenkins,kafka,linux,nginx,postgres,prometheus,rabbitmq,react,redis,spring" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,c,cpp,git,docker,kubernetes,go,grafana,elasticsearch,graphql,ansible,js,jenkins,kafka,linux,nginx,postgres,prometheus,rabbitmq,react,redis,spring" />
   </a>
 </p>
 
@@ -28,3 +28,7 @@ I am a Backend/DevOps Engineer
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Platinaa777&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Platinaa777&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :fire: Algorithms :
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=platina777&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
