@@ -19,7 +19,7 @@ I am a Backend/DevOps Engineer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,c,cpp,git,docker,kubernetes,go,grafana,elasticsearch,graphql,ansible,js,jenkins,kafka,linux,nginx,postgres,prometheus,rabbitmq,react,redis,spring" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,c,cpp,git,docker,kubernetes,grafana,elasticsearch,ansible,js,jenkins,kafka,linux,nginx,postgres,prometheus,rabbitmq,react,redis,spring" />
   </a>
 </p>
 
