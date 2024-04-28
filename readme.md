@@ -12,8 +12,7 @@ I am a Backend/DevOps Engineer
 - Main Stack: .NET
 - 24/7 hard working
 
-### :grey_exclamation: If you want to talk, Let's go to my chat roulette:
-:point_right:<a href="http://langskillup.ru/" >Click</a>
+
 
 ### :zap: Connect with me:
   <a href="https://t.me/platina_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/shbov/shbov/main/telegram.svg" alt="shbov" height="30" width="40" /></a>
