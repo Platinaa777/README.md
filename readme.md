@@ -1,12 +1,9 @@
 <h1 align="center">Hi there, I'm Denis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Platinaa777&label=Profile%20views&color=0e75b6&style=flat" alt="shove" /> </p>
-</div>
 
 ### :speech_balloon: About Me :
 
-I am a Backend/DevOps Engineer
+I am a Backend Engineer
 
 - University and Faculty: HSE, Computer Science
 - Main Stack: .NET
