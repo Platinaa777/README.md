@@ -27,7 +27,3 @@ I am a Backend Engineer
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Platinaa777&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Platinaa777&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### :fire: Algorithms :
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=platina777&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
